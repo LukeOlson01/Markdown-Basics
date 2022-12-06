@@ -5,4 +5,14 @@ Created by Luke Olson
 
 **Target Audience:** This tutorial is designed for people that have no prior knowledge of using Markdown and will teach them the basics of writing in Markdown.
 ## Table of Contents
-[Introduction to Markdown](IntroductionToMarkdown.md)
+[Introduction to Markdown](IntroductionToMarkdown.md)  
+[Headers](Headers.md)  
+[Paragraphs](Paragraphs.md)  
+[Lists](Lists.md)  
+[Blockquotes](Blockquotes.md)  
+[Links and Images](LinksAndImages.md)  
+[Additional Syntax](AdditionalSyntax.md)
+
+---
+
+[Start Tutorial >](IntroductionToMarkdown.md)
