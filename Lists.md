@@ -44,4 +44,4 @@ And outputs:
 2. Item 2
 3. Item 3
 
-[< Paragraphs](Paragraphs.md) | [Blockquotes >](Blockquotes.md)
+[< Paragraphs](Paragraphs.md) | [Links and Images >](LinksAndImages.md)
