@@ -5,4 +5,4 @@ Created by Luke Olson
 
 **Target Audience:** This tutorial is designed for people that have no prior knowledge of using Markdown and will teach them the basics of writing in Markdown.
 ## Table of Contents
-[Introduction to Markdown](Introduction to Markdown.md)
+[Introduction to Markdown](IntroductionToMarkdown.md)
