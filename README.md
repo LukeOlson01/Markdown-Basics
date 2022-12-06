@@ -8,8 +8,7 @@ Created by Luke Olson
 [Introduction to Markdown](IntroductionToMarkdown.md)  
 [Headers](Headers.md)  
 [Paragraphs](Paragraphs.md)  
-[Lists](Lists.md)  
-[Blockquotes](Blockquotes.md)  
+[Lists](Lists.md)   
 [Links and Images](LinksAndImages.md)  
 [Additional Syntax](AdditionalSyntax.md)
 
