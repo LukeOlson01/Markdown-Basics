@@ -3,4 +3,4 @@ Markdown is a markup language, which is a system of formatting text and other el
 
 Now that you know what Markdown is and what its used for, its time to learn Markdown syntax so you can write your own documents using Markdown.
 
-[
+[< Table of Contents](README.md) | [Headers >](Headers.md)
